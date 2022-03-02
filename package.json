@@ -1,0 +1,14 @@
+{
+  "name": "voice-memo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Azanniel <leo.azannielttt@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "http-server ."
+  },
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1",
+    "http-server": "^14.1.0"
+  }
+}
